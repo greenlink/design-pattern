@@ -1,4 +1,4 @@
-namespace Project.Tests;
+namespace FacadePattern.Tests;
 
 public class ClassTest
 {

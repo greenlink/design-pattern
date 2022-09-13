@@ -1,4 +1,4 @@
-namespace Project;
+namespace FacadePattern;
 
 public class Class
 {
